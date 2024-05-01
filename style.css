@@ -158,3 +158,12 @@ blockquote footer {
     flex: 0 0 max-content;
     padding: 5px 15px;
 }
+
+body>footer {
+    background-color: #1f291f;
+    color:#f9faf8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 3vh 0;
+}
